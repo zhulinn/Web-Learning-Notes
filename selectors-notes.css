@@ -1,0 +1,42 @@
+/*Type selector*/
+li {
+
+}
+
+/*class  selcetor*/
+.name {
+
+}
+
+/*id  selector*/
+#name {
+
+}
+
+/*Universal Selector*/
+* {
+
+}
+
+/*Descendant Selector*/
+li a {
+
+}
+
+/*Adjacent Selector*/
+h4 + ul {
+
+}
+
+/*Attribute Selector*/
+input[type="checkbox"]{
+
+}
+
+/*nth of types*/
+ul:nth-of-type(even){
+
+}
+ul:nth-of-type(3){
+
+}
